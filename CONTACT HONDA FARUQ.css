@@ -1,0 +1,96 @@
+.logo{
+    width: 49%;
+    height: 100px;
+    margin-left: 1%;
+    background-color: red;
+    float: left;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu{
+    margin-right: 1%;
+    width: 49%;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+
+.menu ul{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.menu li, a{
+    list-style-type: none;
+    float: left;
+    margin: 0 8% 0 8%;
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    height: 100%;
+    padding-left: 30px;
+}
+
+.kontakkami a{
+    color: black;
+    margin-top: 60px;
+}
+
+.telepon{
+    width: 200px;
+    background-color: white(245,245,247);
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 12%;
+    border-radius: 14px;
+}
+
+.email{
+    width: 200px;
+    height: 100px;
+    background-color: white(245,245,247);
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 34%;
+    border-radius: 14px;
+}
+
+.sms{
+    width: 200px;
+    height: 100px;
+    background-color: white(245,245,247);
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 56%;
+    border-radius: 14px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    color: aliceblue;
+    padding: 1em 0;
+}
+
+main{
+    height: 500px;
+}
+
+

@@ -1,0 +1,105 @@
+.logo{
+    width: 49%;
+    height: 100px;
+    margin-left: 1%;
+    background-color: red;
+    float: left;
+}
+
+.menu{
+    margin-right: 1%;
+    width: 49%;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+
+.menu ul{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.menu li, a{
+    list-style-type: none;
+    float: left;
+    margin: 0 8% 0 8%;
+    padding-top: 20px;
+    text-decoration: none;
+}
+
+
+.menu li a{ 
+    color: white;
+}
+
+img{
+    height: 100%;
+    padding-left: 30px;
+}
+
+.cbr250rr{
+    width: 200px;
+    background-color: rgb(245,245,247);
+    border: 0px solid black;
+    padding: 20px;
+    margin: 10px;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 19%;
+}
+
+.cb150x{
+    width: 200px;
+    background-color: rgb(245,245,247);
+    border: 0px solid black;
+    padding: 20px;
+    margin: 10px;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 39%;
+}
+
+.cbr150{
+    width: 200px;
+    background-color: rgb(245,245,247);
+    border: 0px solid black;
+    padding: 20px;
+    margin: 10px;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 59%;
+}
+
+.jenismotor{
+    background-color: white;
+    padding: 5px;
+    padding-left: 23%;
+}
+
+.jenismotor ul{
+    list-style: none;
+    padding: 0;
+}
+
+.jenismotor ul li{
+    display: inline;
+    margin-right: 10px;
+    margin: 0 2% 0 2%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    color: aliceblue;
+    padding: 1em 0;
+}
+
+main{
+    height: 580px;
+}
